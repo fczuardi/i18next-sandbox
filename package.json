@@ -1,0 +1,17 @@
+{
+  "name": "i18next-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fczuardi/i18next-sandbox.git",
+  "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^11.2.3"
+  },
+  "devDependencies": {
+    "@alienfast/i18next-loader": "^1.0.15",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15",
+    "webpack-dev-server": "^3.1.3"
+  }
+}
